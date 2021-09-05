@@ -1,4 +1,4 @@
 # TruthDare_Spinbattale
 
 
-THIS IS A SIMPLE ON BUT YOU ABLE TO CLEAR SOME STUFF LIKE ANIMATION AND AS AS ON CLICK 
+This is a simple one but you able to clear some stuff like animation and as well as onclick 
